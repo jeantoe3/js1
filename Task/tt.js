@@ -322,7 +322,7 @@ function clickLog() {
 
 function collectActive() {
     return new Promise((resolve, reject) => {
-        const url = "http://pic.anngudao.com/dati/free/activeTaskList";
+        const url = "http://pic.anngudao.com/dati/free/collectActive";
         const headers = {
 
         };
